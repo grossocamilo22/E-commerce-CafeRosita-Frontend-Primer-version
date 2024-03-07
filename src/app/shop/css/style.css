@@ -6,6 +6,8 @@
   width:100%;
   min-height:92vh;
   background: url("/assets/fondoPrincipal.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .title-product{
@@ -133,7 +135,7 @@ h4{
 }
 
 .img-product{
-  
+
   height:85vh;
   width:90%
 }
